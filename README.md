@@ -3,7 +3,7 @@
 
 #### Hi there 👋 
 
-I'm a software developer with extensive experience in JavaScript development, ArcGIS, GIS development, and remote sensing. I have a deep understanding of spatial data modeling, analysis, and visualization, and I'm passionate about building applications that leverage these concepts to solve real-world problems. Feel free to check out my portfolio at [Linkedin Profile](https://www.linkedin.com/in/soumya-saswat-mishra-5097a8a2/) to see examples of my work."
+I'm a software developer with experience in JavaScript development, ArcGIS, GIS development, and remote sensing. I have a deep understanding of spatial data modeling, analysis, and visualization, and I'm passionate about building applications that leverage these concepts to solve real-world problems. Feel free to check out my portfolio at [Linkedin Profile](https://www.linkedin.com/in/soumya-saswat-mishra-5097a8a2/) to see examples of my work."
 
 
 
