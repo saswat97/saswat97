@@ -4,7 +4,8 @@
 
 <h2>Hey! 👋</h2>
 
-I'm a software developer with experience in JavaScript development, ArcGIS, GIS development, and remote sensing. 
+
+I am a software developer with expertise in JavaScript and Python development, GIS development, ArcGIS, and remote sensing.
 
 
 #### 🌐 **Background**: 
