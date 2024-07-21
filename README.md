@@ -1,6 +1,6 @@
 
-<!--## Soumya Saswat Mishra-->
-![Soumya Saswat Mishra Banner Image](./Professional LinkedIn Banner.png)
+![SSM Banner Image](./Banner.png)
+
 
 <h2>Hey! 👋</h2>
 
