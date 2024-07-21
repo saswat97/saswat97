@@ -6,7 +6,7 @@
 I'm a software developer with experience in JavaScript development, ArcGIS, GIS development, and remote sensing. 
 
 
-### 🌐 **Background**: I specialize in Python and JavaScript development, with hands-on experience in building web applications and APIs.
+🌐 **Background**: I specialize in Python and JavaScript development, with hands-on experience in building web applications and APIs.
 ### 🗺️ **GIS Expertise**: As a GIS enthusiast, I've worked extensively with ArcGIS, spatial databases, and mapping libraries. I love solving complex location-based challenges.
 ### 🛰️ **Remote Sensing**: My interest extends to remote sensing—analyzing satellite imagery to extract valuable insights.
 ### 🌍 **Spatial Data**: I thrive on spatial data modeling, analysis, and visualization. Whether it's creating interactive maps or optimizing geospatial queries, I'm all in.
