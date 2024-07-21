@@ -1,17 +1,24 @@
 
 ## Soumya Saswat Mishra
 
-#### Hi there 👋 
+### Hi there 👋 
 
 I'm a software developer with experience in JavaScript development, ArcGIS, GIS development, and remote sensing. 
 
 
-🌐 **Background**: I specialize in Python and JavaScript development, with hands-on experience in building web applications and APIs.
-### 🗺️ **GIS Expertise**: As a GIS enthusiast, I've worked extensively with ArcGIS, spatial databases, and mapping libraries. I love solving complex location-based challenges.
-### 🛰️ **Remote Sensing**: My interest extends to remote sensing—analyzing satellite imagery to extract valuable insights.
-### 🌍 **Spatial Data**: I thrive on spatial data modeling, analysis, and visualization. Whether it's creating interactive maps or optimizing geospatial queries, I'm all in.
-### 🚀 **Real-World Impact**: I believe in using technology to address real-world problems. From environmental conservation to urban planning, I'm committed to making a difference.
-### 🌱 I’m currently learning ...
+#### 🌐 **Background**: 
+I specialize in Python and JavaScript development, with hands-on experience in building web applications and APIs.
+#### 🗺️ **GIS Expertise**: 
+As a GIS enthusiast, I've worked extensively with ArcGIS, spatial databases, and mapping libraries. I love solving complex location-based challenges.
+#### 🛰️ **Remote Sensing**:
+My interest extends to remote sensing—analyzing satellite imagery to extract valuable insights.
+#### 🌍 **Spatial Data**:
+I thrive on spatial data modeling, analysis, and visualization. Whether it's creating interactive maps or optimizing geospatial queries, I'm all in.
+#### 🚀 **Real-World Impact**:
+I believe in using technology to address real-world problems. From environmental conservation to urban planning, I'm committed to making a difference.
+### 🌱 I’m currently learning:
+I am learning Google Earth Engine , Data Science and Machine Learning , Generative AI and new tech for GIS .
+
 
 Feel free to check out my portfolio at [Linkedin Profile](https://www.linkedin.com/in/soumya-saswat-mishra-5097a8a2/) to see examples of my work." or explore my repositories to see some exciting GIS projects! Let's build a better world, one map at a time. 🌎🗺️
 
