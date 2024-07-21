@@ -16,7 +16,7 @@ My interest extends to remote sensing—analyzing satellite imagery to extract v
 I thrive on spatial data modeling, analysis, and visualization. Whether it's creating interactive maps or optimizing geospatial queries, I'm all in.
 #### 🚀 **Real-World Impact**:
 I believe in using technology to address real-world problems. From environmental conservation to urban planning, I'm committed to making a difference.
-### 🌱 I’m currently learning:
+#### 🌱 I’m currently learning:
 I am learning Google Earth Engine , Data Science and Machine Learning , Generative AI and new tech for GIS .
 
 
