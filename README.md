@@ -1,5 +1,5 @@
 
-![SSM Banner Image](./Untitled design (1).gif)
+![SSM Banner Image](./design.gif)
 
 
 <h2>Hey! 👋</h2>
