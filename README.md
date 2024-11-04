@@ -22,7 +22,10 @@ I believe in using technology to address real-world problems. From environmental
 I am learning Google Earth Engine , Data Science and Machine Learning , Generative AI and new tech for GIS .
 
 
-Feel free to check out my portfolio at [Linkedin Profile](https://www.linkedin.com/in/soumya-saswat-mishra-5097a8a2/) to see examples of my work." or explore my repositories to see some exciting GIS projects! Let's build a better world, one map at a time. 🌎🗺️
+Feel free to check out my portfolio at [Linkedin Profile](https://www.linkedin.com/in/soumya-saswat-mishra-5097a8a2/) to see examples of my work." or explore my repositories to see some exciting GIS projects! 
+You can check my technical blogs on [Medium](https://medium.com/@soumyasaswat007) .
+
+####Let's build a better world, one map at a time. 🌎🗺️
 
 
 
